@@ -10,7 +10,7 @@ Tener una cuenta en GCP con creditos, para poder acceder a los siguientes produc
   -  Credencial (Crear un API Key)
   -  API y Servicios Habilitados
     -  Habilitar APIS y Servcios
-      -  Se busca gemini en el buscador y se activa la API de Generative Language API
+       -  Se busca gemini en el buscador y se activa la API de Generative Language API
 - Vertex AI - Workbench
 - Consola - Cloud Shell Editor
 - Cloud Run
