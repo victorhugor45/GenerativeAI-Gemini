@@ -6,7 +6,6 @@ Este repositorio contiene código para testiar los modelos de GenAI. Adicional e
 # Pre-requisitos
 
 Tener una cuenta en GCP con creditos, para poder acceder a los siguientes productos:
-- Vertex AI
-    Workbench
+- Vertex AI - Workbench
 - Consola - Cloud Shell Editor
 - Cloud Run
