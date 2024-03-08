@@ -1,7 +1,8 @@
 # GenerativeAI-Gemini
 Probando la API de Gemini AI - Google Cloud
 
-Este repositorio contiene código para testiar los modelos de GenAI. Adicional el objetivo es usar los productos de Google cloud y Inteligencia Generativa - Gemini.
+Este repositorio contiene código para testiar los modelos de GenAI. Adicional el objetivo es usar los productos de Google cloud e Inteligencia Generativa - Gemini.
+Por último y no menos importante, estamos usando el framework Streamlit https://streamlit.io/ que esta muy interesante.
 
 ## Pre-requisitos
 
