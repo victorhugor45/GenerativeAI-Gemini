@@ -14,4 +14,4 @@ Tener una cuenta en GCP con creditos, para poder acceder a los siguientes produc
        -  Se busca gemini en el buscador y se activa la API de Generative Language API
 - Vertex AI - Workbench
 - Consola - Cloud Shell Editor
-- Cloud Run
+- Cloud Run (Implementa contenedores si que deba especificar el clúster subyacente o la arquitectura de implementación)
